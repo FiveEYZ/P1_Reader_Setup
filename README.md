@@ -1,4 +1,5 @@
 # P1_Reader_Setup
+https://github.com/daniel-jong/esp8266_p1meter
 
 1. Mosquitto broker
 2. Add P1Reader to wifi and MQTT
